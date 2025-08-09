@@ -2,6 +2,7 @@
 ;;
 ;; Author: Andreas Jonsson <ajdev8@gmail.com>
 ;; Maintainer: Andreas Jonsson <ajdev8@gmail.com>
+;; URL: https://github.com/sonofjon/reflow.el
 ;; Version: 0.1
 ;; Package-Requires: ((emacs "26.1"))
 ;; Keywords: convenience, docs
