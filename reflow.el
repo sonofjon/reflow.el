@@ -246,3 +246,5 @@ is updated, the buffer’s text is re-flowed."
     (advice-remove 'helpful-update #'reflow-helpful-buffer-advice)))
 
 (provide 'reflow)
+
+;;; reflow.el ends here
