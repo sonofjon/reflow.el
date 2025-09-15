@@ -57,5 +57,4 @@ customization options.
 
 - Emacs 26.1 or newer
 - [helpful](https://github.com/Wilfred/helpful) (installed from MELPA) — a better \*help\* buffer
-
 - Info (built-in) — Info documentation reader
